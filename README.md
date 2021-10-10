@@ -2,7 +2,7 @@
 - 🌱 estudando 
 - ✉ contatonavieira@gmail.com
 <div>
-  <a href="https://github.com/navieira/navieira.git">
+  <a href="https://github.com/navieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navieira&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -22,6 +22,6 @@
   <a href = "mailto:contatonavieira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathália-vieira-0aaa52222" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/navieira/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/navieira/navieira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
